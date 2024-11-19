@@ -1,0 +1,421 @@
+img{
+    height: 20px;
+    
+
+}
+
+.navdiv{
+    display: flex;
+    justify-content: space-around;
+}
+
+.divf{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 10%;
+
+}
+
+
+.myimage{
+    height: 200px;
+}
+
+
+.orders{
+    display: flex;
+    justify-content: space-around;
+    border: 2xp,solid,black;
+    padding-top: 10%;
+    gap: 50px;
+
+}
+
+.imgmuffin{
+    height: 50%;
+    border: 1px,solid,white;
+    padding-left: 30%;
+    padding-top: 10%;
+
+
+    
+}
+.imgrolls{
+    height: 50%;
+    width: 50%;
+    border: 1px,solid,white;
+    padding-left: 30%;
+    padding-top: 10%;
+}
+
+
+
+.cake{
+    height: 50%;
+    border: 1px,solid,white;
+    padding-left: 30%;
+    padding-top: 10%;
+
+
+}
+
+.divcake{
+    border: 2px,solid,rgb(230, 219, 219);
+    height: 400px;
+    width: 400px;
+    border-radius: 10%;
+    padding-left: 3%;
+    
+}
+
+.divrolls{
+    border: 2px,solid,rgb(230, 219, 219);
+    height: 400px;
+    width: 400px;
+    border-radius: 10%;
+
+}
+
+.divmuffin{
+    border: 1px,solid,rgb(230, 219, 219);
+    height: 400px;
+    width: 400px;
+    border-radius: 10%;
+    padding-left: 3%;
+
+}
+
+
+.navbar{
+    border: 2px,solid,white;
+    height: 200px;
+    background-color:orangered;
+    margin-top:10%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    ma
+    
+
+    
+}
+
+
+
+.buttondiv{
+    
+    padding-left: 5%;
+    
+}
+
+
+.button1{
+    border: 1px,solid,black;
+    border-radius: 5PX;
+    width: 100px;
+    color: white;
+    background-color: rgb(238, 185, 13);
+
+}
+
+.button2{
+    border: 1px,solid,black;
+    border-radius: 5PX;
+    width: 100px;
+    color: white;
+    background-color: red;
+
+}
+
+.button3{
+    border: 1px,solid,black;
+    border-radius: 5PX;
+    width: 100px;
+    color: white;
+    background-color: blue;
+
+}
+
+.ptag{
+    padding-left: 5%;
+}
+
+.ordermu{
+    border: 1px,solid,white;
+    border-radius: 5px;
+    margin-left: 7%;
+    margin-bottom: 20%;
+    
+    width: 250px;
+    color: white;
+    background-color: orangered;
+}
+
+.stan1{
+    border: 1px,solid,black;
+    border-radius: 5px;
+    width: 20px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.stan2{
+    border: 1px,solid,black;
+    border-radius: 5px;
+    width: 20px;
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+
+
+
+.divtag{
+    display: flex;
+    flex-direction: row;
+    align-items: end;
+    justify-items: end;
+    padding-left: 200px;
+    gap: 5px;
+    padding-bottom: 70px;
+    
+    
+}
+
+
+.muffin{
+    display: flex;
+    flex-direction: row;
+    padding-left: 5%;
+    
+}
+
+.newdiv{
+    margin-top: 5px;
+    display: flex;
+    flex-direction: row;
+    padding-left: 180px;
+    gap: 5px;
+}
+
+    
+.divrolls{
+    padding-left: 3%;
+    
+
+}
+
+.button4{
+    border: 1px,solid,black;
+    border-radius: 5PX;
+    width: 100px;
+    color: white;
+    background-color: rgb(238, 185, 13);
+}
+
+.button5{
+    border: 1px,solid,black;
+    border-radius: 5PX;
+    width: 100px;
+    color: white;
+    background-color: red;
+
+}
+
+.button6{
+    border: 1px,solid,black;
+    border-radius: 5PX;
+    width: 100px;
+    color: white;
+    background-color: red;
+}
+
+.divmumu{
+    display: flex;
+    padding-bottom: 20%;
+}
+
+.divorder2{
+    border: 1px,solid,white;
+    border-radius: 5px;
+    margin-left: 7%;
+    margin-bottom: 100%;
+
+
+    width: 250px;
+    color: white;
+    background-color: orangered;
+
+}
+
+
+.button11{
+    border: 1px,solid,black;
+    border-radius: 5PX;
+    width: 100px;
+    color: white;
+    background-color: rgb(238, 185, 13);
+}
+
+.button12{
+    border: 1px,solid,black;
+    border-radius: 5PX;
+    width: 100px;
+    color: white;
+    background-color: red;
+}
+
+.button13{
+    border: 1px,solid,black;
+    border-radius: 5PX;
+    width: 100px;
+    color: white;
+    background-color: blue;
+}
+
+
+.olddiv{
+    margin-top: 5px;
+    display: flex;
+    flex-direction: row;
+    padding-left: 180px;
+    gap: 5px;
+}
+
+.oldold{
+    display: flex;
+    flex-direction: row;
+}
+
+.dozie{
+    border: 1px,solid,black;
+    border-radius: 5px;
+    width: 20px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+
+.dozie2{
+    border: 1px,solid,black;
+    border-radius: 5px;
+    width: 20px;
+    justify-content: center;
+    text-align: center;
+
+}
+
+
+.order3{
+    border: 1px,solid,white;
+    border-radius: 5px;
+    margin-left: 7%;
+    margin-bottom: 20%;
+    
+    width: 250px;
+    color: white;
+    background-color: orangered;
+}
+
+.ex2{
+    border: 1px,solid,white;
+    height: 30px;
+    width: 120px;
+    border-radius: 10%;
+    color: white;
+    background-color: orangered;
+}
+
+
+.home{
+    color: orangered;
+    padding-left: 10%;
+}
+
+
+.contact{
+    color: orangered;
+    padding-right: 10%;
+}
+
+
+.aboutus{
+    color: orangered;
+    padding-right: 20%;
+}
+
+.div20{
+    border: 1px,solid,white;
+    background-color: orangered;
+    width:150px ;
+    color: white;
+    border-radius: 10%;
+
+}
+
+
+.sign{
+    border: 1px,solid,orangered;
+    
+    width:150px ;
+    color: orangered;
+    border-radius: 10%;
+
+}
+.topimage{
+    padding-top: 20px;
+}
+
+.mumudiv{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 7%;
+    gap: 5px;
+}
+
+
+.span10{
+    border: 1px,solid,black;
+    border-radius: 5px;
+    width: 20px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.span11{
+    border: 1px,solid,black;
+    border-radius: 5px;
+    width: 20px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.divspan2{
+    display: flex;
+    gap: 5px;
+}
+
+.divn{
+    padding-right: 40%;
+    text-size-adjust: 10px;
+}
+
+
+.ordernow{
+    border: 1px,solid,white;
+    border-radius: 5px;
+    margin-left: 7%;
+    margin-top: 4%;
+    
+    width: 250px;
+    color: white;
+    background-color: orangered;
+}
+}
